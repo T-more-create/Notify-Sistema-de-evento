@@ -20,5 +20,5 @@
 - 1. Clonar ou repositório
 
    ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/seu-usuario/seu-repo.git
    ```
