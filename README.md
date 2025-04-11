@@ -7,8 +7,8 @@
 - ✅ Inscrição de usuários em eventos
 - ✅ Modelos HTML com Jinja2
 - ✅ Integração total com Docker e PostgreSQL
-- 
-#🧰 Tecnologias Utilizadas
+
+# 🧰 Tecnologias Utilizadas
 - API rápida
 - SQLAlquimia
 - Jinja2
